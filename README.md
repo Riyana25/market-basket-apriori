@@ -1,0 +1,1 @@
+Implementation of the Apriori algorithm for market basket analysis and association rule mining. Discovers frequent itemsets and generates association rules from transactional data using Python and mlxtend. Includes data preprocessing, exploratory analysis, visualizations, and performance metrics.
